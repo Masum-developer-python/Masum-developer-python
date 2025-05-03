@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on open-source projects, web development, embedded system
 - 📫 How to reach me [...](https://www.facebook.com/profile.php?id=61569390555760)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I’m a full-stack and embedded system developer by day and a nice father by night.
+- ⚡ Fun fact: I’m a full-stack and embedded system developer by day and a nice father 24/7.
 
 <!---
 Masum-developer-python/Masum-developer-python is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
